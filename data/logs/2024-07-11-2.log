@@ -1,0 +1,146 @@
+{"id":1,"type":"info","level":2,"name":"app","meta":{},"content":"\u001b[38;5;15;1mKoishi/4.17.9\u001b[0m","timestamp":1720691810214}
+{"id":2,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:entry\u001b[0m","timestamp":1720691810268}
+{"id":3,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:server\u001b[0m","timestamp":1720691810270}
+{"id":4,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mserver:s859qi\u001b[0m","timestamp":1720691810272}
+{"id":5,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:basic\u001b[0m","timestamp":1720691815637}
+{"id":6,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mcommands:if8ao4\u001b[0m","timestamp":1720691815638}
+{"id":7,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mhelp:gn3g1d\u001b[0m","timestamp":1720691815678}
+{"id":8,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mhttp:vmyxhc\u001b[0m","timestamp":1720691815719}
+{"id":9,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mlocales:e4y6bs\u001b[0m","timestamp":1720691815736}
+{"id":10,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mproxy-agent:26mixo\u001b[0m","timestamp":1720691815808}
+{"id":11,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mrate-limit:2h29a4\u001b[0m","timestamp":1720691819550}
+{"id":12,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mpuppeteer:sz5coe\u001b[0m","timestamp":1720691819610}
+{"id":13,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mtelemetry:1mld9j\u001b[0m","timestamp":1720691830444}
+{"id":14,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:console\u001b[0m","timestamp":1720691830901}
+{"id":15,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mactions:r1oktw\u001b[0m","timestamp":1720691830902}
+{"id":16,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45manalytics:rgpz1r\u001b[0m","timestamp":1720691830925}
+{"id":17,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mauth:ile4qk\u001b[0m","timestamp":1720691830959}
+{"id":18,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mconfig:dgac95\u001b[0m","timestamp":1720691830995}
+{"id":19,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mconsole:bus1ch\u001b[0m","timestamp":1720691831803}
+{"id":20,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mdataview:tr2dkr\u001b[0m","timestamp":1720691832036}
+{"id":21,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mdesktop:wxbmwm\u001b[0m","timestamp":1720691832078}
+{"id":22,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mexplorer:psnh5c\u001b[0m","timestamp":1720691832155}
+{"id":23,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mlogger:1xw5tt\u001b[0m","timestamp":1720691832799}
+{"id":24,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45minsight:d60pgv\u001b[0m","timestamp":1720691832833}
+{"id":25,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mmarket:isgcrc\u001b[0m","timestamp":1720691832874}
+{"id":26,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mnotifier:pfvlnd\u001b[0m","timestamp":1720691834080}
+{"id":27,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45moobe:4f39zf\u001b[0m","timestamp":1720691834111}
+{"id":28,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45msandbox:taovro\u001b[0m","timestamp":1720691834140}
+{"id":29,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45m@initencounter/jimp:gcsgwl\u001b[0m","timestamp":1720691834186}
+{"id":30,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mcache-database:0da60f\u001b[0m","timestamp":1720691840057}
+{"id":31,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mstatus:edg7wj\u001b[0m","timestamp":1720691840137}
+{"id":32,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mtheme-vanilla:jjwlke\u001b[0m","timestamp":1720691840335}
+{"id":33,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:storage\u001b[0m","timestamp":1720691840366}
+{"id":34,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mdatabase-sqlite:yiu6it\u001b[0m","timestamp":1720691840367}
+{"id":35,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45massets-local:l6ck2i\u001b[0m","timestamp":1720691840601}
+{"id":36,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:adapter\u001b[0m","timestamp":1720691840679}
+{"id":37,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45madapter-qq:rbk1hq\u001b[0m","timestamp":1720691840680}
+{"id":38,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45madapter-satori:dd0tb4\u001b[0m","timestamp":1720691840766}
+{"id":39,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:lnok3u\u001b[0m","timestamp":1720691840850}
+{"id":40,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mjrrp:cpxhww\u001b[0m","timestamp":1720691840851}
+{"id":41,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mba-logo:1jkapn\u001b[0m","timestamp":1720691840904}
+{"id":42,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mhitokoto:3p9pq6\u001b[0m","timestamp":1720691840938}
+{"id":43,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mchange-auth-callme:f4vlua\u001b[0m","timestamp":1720691840991}
+{"id":44,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mdialogue:ar0a4x\u001b[0m","timestamp":1720691841033}
+{"id":45,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mtrpgdice:6pr6fw\u001b[0m","timestamp":1720691841075}
+{"id":46,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mbeauty-huluxia:zvm2m9\u001b[0m","timestamp":1720691841174}
+{"id":47,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mmememaker:02acrl\u001b[0m","timestamp":1720691841214}
+{"id":48,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mminesweeper-ending:5p9edn\u001b[0m","timestamp":1720691841251}
+{"id":49,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mbuckshot-roulette2:lvv64a\u001b[0m","timestamp":1720691841477}
+{"id":50,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mguess-riddle:qysler\u001b[0m","timestamp":1720691841556}
+{"id":51,"type":"info","level":2,"name":"assets","meta":{"paths":["l6ck2i"]},"content":"missing config \"selfUrl\", fallback to \"file:\" scheme","timestamp":1720691841776}
+{"id":57,"type":"info","level":2,"name":"puppeteer","meta":{"paths":["sz5coe"]},"content":"chrome executable found at \u001b[38;5;201mC:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\u001b[0m","timestamp":1720691841979}
+{"id":59,"type":"info","level":2,"name":"server","meta":{"paths":["s859qi"]},"content":"server listening at \u001b[38;5;57mhttp://0.0.0.0:5140\u001b[0m","timestamp":1720691842080}
+{"id":60,"type":"info","level":2,"name":"console","meta":{"paths":["bus1ch"]},"content":"webui is available at \u001b[38;5;166mhttp://127.0.0.1:5140\u001b[0m","timestamp":1720691842081}
+{"id":61,"type":"info","level":2,"name":"adapter","meta":{"paths":["dd0tb4"]},"content":"connect to server: \u001b[38;5;44mws://127.0.0.1:5500/v1/events\u001b[0m","timestamp":1720691842110}
+{"id":63,"type":"info","level":2,"name":"auth","meta":{"paths":["ile4qk"]},"content":"creating admin account","timestamp":1720691842243}
+{"id":82,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1720691843288}
+{"id":244,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45miframe:1mh7tt\u001b[0m","timestamp":1720692383647}
+{"id":245,"type":"error","level":1,"name":"loader","meta":{},"content":"TypeError: Cannot read properties of undefined (reading 'some')\n    at ConfigWriter.teleport (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@koishijs\\plugin-config\\lib\\shared\\index.js:309:30)\n    at ConfigWriter.ctx.console.addListener.authority (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@koishijs\\plugin-config\\lib\\shared\\index.js:195:27)\n    at Object.apply (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@cordisjs\\core\\lib\\index.cjs:172:28)\n    at WebSocket.receive (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@koishijs\\plugin-console\\node_modules\\@koishijs\\console\\lib\\index.js:127:45)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":1720692404147}
+{"id":257,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45miframe:1mh7tt\u001b[0m","timestamp":1720692451083}
+{"id":1319,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1720693643284}
+{"id":1321,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1720693643309}
+{"id":1331,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1720693648694}
+{"id":1870,"type":"error","level":1,"name":"loader","meta":{},"content":"TypeError: Cannot read properties of undefined (reading 'some')\n    at ConfigWriter.teleport (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@koishijs\\plugin-config\\lib\\shared\\index.js:309:30)\n    at ConfigWriter.ctx.console.addListener.authority (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@koishijs\\plugin-config\\lib\\shared\\index.js:195:27)\n    at Object.apply (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@cordisjs\\core\\lib\\index.cjs:172:28)\n    at WebSocket.receive (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@koishijs\\plugin-console\\node_modules\\@koishijs\\console\\lib\\index.js:127:45)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":1720694447372}
+{"id":2212,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1720695448703}
+{"id":2214,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1720695448723}
+{"id":2224,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1720695454089}
+{"id":3909,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1720697254075}
+{"id":3911,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1720697254100}
+{"id":3931,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1720697259464}
+{"id":6128,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1720699059478}
+{"id":6130,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1720699059500}
+{"id":6150,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1720699064851}
+{"id":7517,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1720700864838}
+{"id":7519,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1720700864857}
+{"id":7525,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1720700870205}
+{"id":9016,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1720702670218}
+{"id":9018,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1720702670237}
+{"id":9024,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1720702675586}
+{"id":9616,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1720704475586}
+{"id":9618,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1720704475604}
+{"id":9624,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1720704480985}
+{"id":10180,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1720706280976}
+{"id":10182,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1720706280998}
+{"id":10188,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1720706286370}
+{"id":10748,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1720708086366}
+{"id":10750,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1720708086385}
+{"id":10756,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1720708091726}
+{"id":11850,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1720709891725}
+{"id":11852,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1720709891744}
+{"id":11858,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1720709897152}
+{"id":12258,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"reload plugin \u001b[38;5;45mauth:ile4qk\u001b[0m","timestamp":1720710519017}
+{"id":12789,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1720711697154}
+{"id":12791,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1720711697179}
+{"id":12797,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1720711702564}
+{"id":13459,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1720713502568}
+{"id":13461,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1720713502586}
+{"id":13467,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1720713507971}
+{"id":13891,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1720715307974}
+{"id":13893,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1720715307996}
+{"id":13899,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1720715313337}
+{"id":14326,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1720717113332}
+{"id":14328,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1720717113353}
+{"id":14334,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1720717118708}
+{"id":14402,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1720718918710}
+{"id":14404,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1720718918730}
+{"id":14410,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1720718924096}
+{"id":14539,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1720720724101}
+{"id":14541,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1720720724122}
+{"id":14547,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1720720729499}
+{"id":14639,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1720722529491}
+{"id":14641,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1720722529513}
+{"id":14647,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1720722534874}
+{"id":14737,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1720724334883}
+{"id":14739,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1720724334905}
+{"id":14745,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1720724340269}
+{"id":14862,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1720726140266}
+{"id":14864,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1720726140286}
+{"id":14870,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1720726145642}
+{"id":14947,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1720727945630}
+{"id":14949,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1720727945651}
+{"id":14955,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1720727950990}
+{"id":15012,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1720729751000}
+{"id":15014,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1720729751018}
+{"id":15020,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1720729756383}
+{"id":15077,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1720731556380}
+{"id":15079,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1720731556402}
+{"id":15085,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1720731561774}
+{"id":15162,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1720733361770}
+{"id":15164,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1720733361793}
+{"id":15170,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1720733367187}
+{"id":15251,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1720735167182}
+{"id":15253,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1720735167203}
+{"id":15259,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1720735172557}
+{"id":15316,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1720736972569}
+{"id":15318,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1720736972588}
+{"id":15324,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1720736977939}
+{"id":15398,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1720738777940}
+{"id":15400,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1720738777962}
+{"id":15406,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1720738783326}
+{"id":15463,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1720740583318}
+{"id":15465,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1720740583337}
+{"id":15471,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1720740588681}
+{"id":15568,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1720742388684}
+{"id":15570,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1720742388703}
+{"id":15576,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1720742394064}

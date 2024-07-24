@@ -1,0 +1,102 @@
+{"id":1,"type":"info","level":2,"name":"app","meta":{},"content":"\u001b[38;5;15;1mKoishi/4.17.7\u001b[0m","timestamp":1719588155907}
+{"id":2,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mgroup:entry\u001b[0m","timestamp":1719588155957}
+{"id":3,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mgroup:server\u001b[0m","timestamp":1719588155959}
+{"id":4,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mserver:s859qi\u001b[0m","timestamp":1719588155960}
+{"id":5,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mserver-temp:am92qk\u001b[0m","timestamp":1719588156185}
+{"id":6,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mgroup:basic\u001b[0m","timestamp":1719588156191}
+{"id":7,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mcommands:if8ao4\u001b[0m","timestamp":1719588156192}
+{"id":8,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mhelp:gn3g1d\u001b[0m","timestamp":1719588156196}
+{"id":9,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mhttp:vmyxhc\u001b[0m","timestamp":1719588156200}
+{"id":10,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mlocales:e4y6bs\u001b[0m","timestamp":1719588156201}
+{"id":11,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mproxy-agent:26mixo\u001b[0m","timestamp":1719588156209}
+{"id":12,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mrate-limit:2h29a4\u001b[0m","timestamp":1719588156418}
+{"id":13,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mpuppeteer:sz5coe\u001b[0m","timestamp":1719588156425}
+{"id":14,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mtelemetry:1mld9j\u001b[0m","timestamp":1719588157085}
+{"id":15,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mgroup:console\u001b[0m","timestamp":1719588157106}
+{"id":16,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mactions:r1oktw\u001b[0m","timestamp":1719588157107}
+{"id":17,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45manalytics:rgpz1r\u001b[0m","timestamp":1719588157112}
+{"id":18,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mauth:ile4qk\u001b[0m","timestamp":1719588157118}
+{"id":19,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mconfig:dgac95\u001b[0m","timestamp":1719588157123}
+{"id":20,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mconsole:bus1ch\u001b[0m","timestamp":1719588157179}
+{"id":21,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mdataview:tr2dkr\u001b[0m","timestamp":1719588157192}
+{"id":22,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mdesktop:wxbmwm\u001b[0m","timestamp":1719588157196}
+{"id":23,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mexplorer:psnh5c\u001b[0m","timestamp":1719588157201}
+{"id":24,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mlogger:1xw5tt\u001b[0m","timestamp":1719588157247}
+{"id":25,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45minsight:d60pgv\u001b[0m","timestamp":1719588157251}
+{"id":26,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mmarket:isgcrc\u001b[0m","timestamp":1719588157256}
+{"id":27,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mnotifier:pfvlnd\u001b[0m","timestamp":1719588157324}
+{"id":28,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45moobe:4f39zf\u001b[0m","timestamp":1719588157328}
+{"id":29,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45msandbox:taovro\u001b[0m","timestamp":1719588157332}
+{"id":30,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mstatus:edg7wj\u001b[0m","timestamp":1719588157336}
+{"id":31,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mtheme-vanilla:jjwlke\u001b[0m","timestamp":1719588157414}
+{"id":32,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mgroup:storage\u001b[0m","timestamp":1719588157417}
+{"id":33,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mdatabase-sqlite:yiu6it\u001b[0m","timestamp":1719588157417}
+{"id":34,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45massets-local:l6ck2i\u001b[0m","timestamp":1719588157431}
+{"id":35,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mgroup:adapter\u001b[0m","timestamp":1719588157436}
+{"id":36,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45madapter-qq:rbk1hq\u001b[0m","timestamp":1719588157437}
+{"id":37,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45madapter-satori:dd0tb4\u001b[0m","timestamp":1719588157453}
+{"id":38,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mjrrp:cpxhww\u001b[0m","timestamp":1719588157462}
+{"id":39,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mtrpgdice:6pr6fw\u001b[0m","timestamp":1719588157467}
+{"id":40,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mba-logo:1jkapn\u001b[0m","timestamp":1719588157472}
+{"id":41,"type":"info","level":2,"name":"assets","meta":{},"content":"missing config \"selfUrl\", fallback to \"file:\" scheme","timestamp":1719588157658}
+{"id":47,"type":"info","level":2,"name":"puppeteer","meta":{},"content":"chrome executable found at \u001b[38;5;201mC:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\u001b[0m","timestamp":1719588157797}
+{"id":49,"type":"info","level":2,"name":"server","meta":{},"content":"server listening at \u001b[38;5;57mhttp://0.0.0.0:5140\u001b[0m","timestamp":1719588157880}
+{"id":50,"type":"info","level":2,"name":"console","meta":{},"content":"webui is available at \u001b[38;5;166mhttp://127.0.0.1:5140\u001b[0m","timestamp":1719588157881}
+{"id":51,"type":"info","level":2,"name":"adapter","meta":{},"content":"connect to server: \u001b[38;5;44mws://127.0.0.1:5500/v1/events\u001b[0m","timestamp":1719588157979}
+{"id":52,"type":"info","level":2,"name":"auth","meta":{},"content":"creating admin account","timestamp":1719588158023}
+{"id":101,"type":"info","level":2,"name":"adapter","meta":{},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1719588161954}
+{"id":114,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mhitokoto:3p9pq6\u001b[0m","timestamp":1719588172545}
+{"id":121,"type":"warn","level":2,"name":"app","meta":{},"content":"Error: property database is not registered, declare it as `inject` to suppress this warning\n    at checkInject (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@cordisjs\\core\\lib\\index.cjs:836:38)\n    at Object.get (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@cordisjs\\core\\lib\\index.cjs:846:11)\n    at Command.<anonymous> (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\koishi-plugin-jrrp\\src\\core.js:56:15)\n    at Array.<anonymous> (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@koishijs\\core\\lib\\index.cjs:1121:27)\n    at argv.next (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@koishijs\\core\\lib\\index.cjs:1132:30)\n    at Command.execute (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@koishijs\\core\\lib\\index.cjs:1135:33)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@koishijs\\core\\lib\\index.cjs:2154:22\n    at async Proxy.withScope (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@koishijs\\core\\lib\\index.cjs:2057:22)\n    at async next (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@koishijs\\core\\lib\\index.cjs:860:16)","timestamp":1719588195760}
+{"id":156,"type":"warn","level":2,"name":"app","meta":{},"content":"Error: property database is not registered, declare it as `inject` to suppress this warning\n    at checkInject (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@cordisjs\\core\\lib\\index.cjs:836:38)\n    at Object.get (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@cordisjs\\core\\lib\\index.cjs:846:11)\n    at Command.<anonymous> (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\koishi-plugin-jrrp\\src\\core.js:56:15)\n    at Array.<anonymous> (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@koishijs\\core\\lib\\index.cjs:1121:27)\n    at argv.next (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@koishijs\\core\\lib\\index.cjs:1132:30)\n    at Command.execute (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@koishijs\\core\\lib\\index.cjs:1135:33)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@koishijs\\core\\lib\\index.cjs:2154:22\n    at async Proxy.withScope (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@koishijs\\core\\lib\\index.cjs:2057:22)\n    at async next (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@koishijs\\core\\lib\\index.cjs:860:16)","timestamp":1719588241476}
+{"id":179,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mgroup:lnok3u\u001b[0m","timestamp":1719588262445}
+{"id":233,"type":"warn","level":2,"name":"qq","meta":{},"content":"offline: server request reconnect","timestamp":1719589961857}
+{"id":235,"type":"warn","level":2,"name":"adapter","meta":{},"content":"Session timed out, will retry in 5s...","timestamp":1719589961875}
+{"id":241,"type":"info","level":2,"name":"adapter","meta":{},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1719589967260}
+{"id":292,"type":"warn","level":2,"name":"qq","meta":{},"content":"offline: server request reconnect","timestamp":1719591767266}
+{"id":294,"type":"warn","level":2,"name":"adapter","meta":{},"content":"Session timed out, will retry in 5s...","timestamp":1719591767288}
+{"id":304,"type":"info","level":2,"name":"adapter","meta":{},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1719591772657}
+{"id":355,"type":"warn","level":2,"name":"qq","meta":{},"content":"offline: server request reconnect","timestamp":1719593572649}
+{"id":357,"type":"warn","level":2,"name":"adapter","meta":{},"content":"Session timed out, will retry in 5s...","timestamp":1719593572666}
+{"id":363,"type":"info","level":2,"name":"adapter","meta":{},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1719593578007}
+{"id":414,"type":"warn","level":2,"name":"qq","meta":{},"content":"offline: server request reconnect","timestamp":1719595378005}
+{"id":416,"type":"warn","level":2,"name":"adapter","meta":{},"content":"Session timed out, will retry in 5s...","timestamp":1719595378027}
+{"id":422,"type":"info","level":2,"name":"adapter","meta":{},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1719595383372}
+{"id":473,"type":"warn","level":2,"name":"qq","meta":{},"content":"offline: server request reconnect","timestamp":1719597183376}
+{"id":475,"type":"warn","level":2,"name":"adapter","meta":{},"content":"Session timed out, will retry in 5s...","timestamp":1719597183392}
+{"id":481,"type":"info","level":2,"name":"adapter","meta":{},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1719597188728}
+{"id":532,"type":"warn","level":2,"name":"qq","meta":{},"content":"offline: server request reconnect","timestamp":1719598988727}
+{"id":534,"type":"warn","level":2,"name":"adapter","meta":{},"content":"Session timed out, will retry in 5s...","timestamp":1719598988747}
+{"id":540,"type":"info","level":2,"name":"adapter","meta":{},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1719598994101}
+{"id":591,"type":"warn","level":2,"name":"qq","meta":{},"content":"offline: server request reconnect","timestamp":1719600794106}
+{"id":593,"type":"warn","level":2,"name":"adapter","meta":{},"content":"Session timed out, will retry in 5s...","timestamp":1719600794125}
+{"id":599,"type":"info","level":2,"name":"adapter","meta":{},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1719600799480}
+{"id":650,"type":"warn","level":2,"name":"qq","meta":{},"content":"offline: server request reconnect","timestamp":1719602599484}
+{"id":652,"type":"warn","level":2,"name":"adapter","meta":{},"content":"Session timed out, will retry in 5s...","timestamp":1719602599501}
+{"id":658,"type":"info","level":2,"name":"adapter","meta":{},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1719602604874}
+{"id":709,"type":"warn","level":2,"name":"qq","meta":{},"content":"offline: server request reconnect","timestamp":1719604404875}
+{"id":711,"type":"warn","level":2,"name":"adapter","meta":{},"content":"Session timed out, will retry in 5s...","timestamp":1719604404899}
+{"id":717,"type":"info","level":2,"name":"adapter","meta":{},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1719604410232}
+{"id":768,"type":"warn","level":2,"name":"qq","meta":{},"content":"offline: server request reconnect","timestamp":1719606210232}
+{"id":770,"type":"warn","level":2,"name":"adapter","meta":{},"content":"Session timed out, will retry in 5s...","timestamp":1719606210248}
+{"id":776,"type":"info","level":2,"name":"adapter","meta":{},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1719606215662}
+{"id":827,"type":"warn","level":2,"name":"qq","meta":{},"content":"offline: server request reconnect","timestamp":1719608015661}
+{"id":829,"type":"warn","level":2,"name":"adapter","meta":{},"content":"Session timed out, will retry in 5s...","timestamp":1719608015678}
+{"id":835,"type":"info","level":2,"name":"adapter","meta":{},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1719608021037}
+{"id":886,"type":"warn","level":2,"name":"qq","meta":{},"content":"offline: server request reconnect","timestamp":1719609821034}
+{"id":888,"type":"warn","level":2,"name":"adapter","meta":{},"content":"Session timed out, will retry in 5s...","timestamp":1719609821052}
+{"id":894,"type":"info","level":2,"name":"adapter","meta":{},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1719609826402}
+{"id":945,"type":"warn","level":2,"name":"qq","meta":{},"content":"offline: server request reconnect","timestamp":1719611626397}
+{"id":947,"type":"warn","level":2,"name":"adapter","meta":{},"content":"Session timed out, will retry in 5s...","timestamp":1719611626417}
+{"id":953,"type":"info","level":2,"name":"adapter","meta":{},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1719611631783}
+{"id":1004,"type":"warn","level":2,"name":"qq","meta":{},"content":"offline: server request reconnect","timestamp":1719613431781}
+{"id":1006,"type":"warn","level":2,"name":"adapter","meta":{},"content":"Session timed out, will retry in 5s...","timestamp":1719613431801}
+{"id":1012,"type":"info","level":2,"name":"adapter","meta":{},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1719613437112}
+{"id":1063,"type":"warn","level":2,"name":"qq","meta":{},"content":"offline: server request reconnect","timestamp":1719615237118}
+{"id":1065,"type":"warn","level":2,"name":"adapter","meta":{},"content":"Session timed out, will retry in 5s...","timestamp":1719615237135}
+{"id":1071,"type":"info","level":2,"name":"adapter","meta":{},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1719615242485}
+{"id":1122,"type":"warn","level":2,"name":"qq","meta":{},"content":"offline: server request reconnect","timestamp":1719617042489}
+{"id":1124,"type":"warn","level":2,"name":"adapter","meta":{},"content":"Session timed out, will retry in 5s...","timestamp":1719617042506}
+{"id":1130,"type":"info","level":2,"name":"adapter","meta":{},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1719617047870}
+{"id":1208,"type":"warn","level":2,"name":"qq","meta":{},"content":"offline: server request reconnect","timestamp":1719618847865}
+{"id":1210,"type":"warn","level":2,"name":"adapter","meta":{},"content":"Session timed out, will retry in 5s...","timestamp":1719618847885}
+{"id":1216,"type":"info","level":2,"name":"adapter","meta":{},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1719618853234}

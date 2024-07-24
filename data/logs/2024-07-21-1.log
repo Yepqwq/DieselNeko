@@ -1,0 +1,146 @@
+{"id":82242,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721520000558}
+{"id":82244,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721520000580}
+{"id":82250,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721520005927}
+{"id":82332,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721521805935}
+{"id":82334,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721521805953}
+{"id":82340,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721521811330}
+{"id":82430,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721523611337}
+{"id":82432,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721523611355}
+{"id":82438,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721523616715}
+{"id":82506,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721525416715}
+{"id":82508,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721525416736}
+{"id":82514,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721525422095}
+{"id":82613,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721527222092}
+{"id":82615,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721527222115}
+{"id":82621,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721527227493}
+{"id":82931,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721529027488}
+{"id":82933,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721529027508}
+{"id":82939,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721529032888}
+{"id":83152,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721530832890}
+{"id":83154,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721530832909}
+{"id":83160,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721530838264}
+{"id":83483,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721532638268}
+{"id":83485,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721532638290}
+{"id":83491,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721532643667}
+{"id":83853,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721534443664}
+{"id":83855,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721534443686}
+{"id":83861,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721534449031}
+{"id":84361,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721536249035}
+{"id":84363,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721536249055}
+{"id":84369,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721536254379}
+{"id":85122,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721538054380}
+{"id":85124,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721538054400}
+{"id":85136,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721538059766}
+{"id":85333,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721539859762}
+{"id":85335,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721539859787}
+{"id":85341,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721539865141}
+{"id":85550,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721541665150}
+{"id":85552,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721541665166}
+{"id":85558,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721541670526}
+{"id":85826,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721543470516}
+{"id":85828,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721543470535}
+{"id":85834,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721543475910}
+{"id":86221,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721545275910}
+{"id":86223,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721545275932}
+{"id":86231,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721545281292}
+{"id":86864,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721547081298}
+{"id":86866,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721547081319}
+{"id":86880,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721547086674}
+{"id":87690,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721548886669}
+{"id":87692,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721548886688}
+{"id":87700,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721548892048}
+{"id":88000,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721550692052}
+{"id":88002,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721550692075}
+{"id":88008,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721550697428}
+{"id":88451,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721552497431}
+{"id":88453,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721552497449}
+{"id":88459,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721552502812}
+{"id":88877,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721554302806}
+{"id":88879,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721554302824}
+{"id":88885,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721554308216}
+{"id":89146,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721556108218}
+{"id":89148,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721556108239}
+{"id":89154,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721556113637}
+{"id":89411,"type":"warn","level":2,"name":"app","meta":{"paths":["cpxhww"]},"content":"Error: property database is not registered, declare it as `inject` to suppress this warning\n    at ReflectService.checkInject (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@cordisjs\\core\\lib\\index.cjs:276:21)\n    at Object.get (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@cordisjs\\core\\lib\\index.cjs:294:27)\n    at Command.<anonymous> (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\koishi-plugin-jrrp\\src\\core.js:56:15)\n    at Array.<anonymous> (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@koishijs\\core\\lib\\index.cjs:1114:27)\n    at argv.next (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@koishijs\\core\\lib\\index.cjs:1125:30)\n    at Command.execute (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@koishijs\\core\\lib\\index.cjs:1128:33)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@koishijs\\core\\lib\\index.cjs:2162:22\n    at async Proxy.withScope (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@koishijs\\core\\lib\\index.cjs:2065:22)\n    at async next (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@koishijs\\core\\lib\\index.cjs:853:16)","timestamp":1721557000428}
+{"id":89555,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721557913636}
+{"id":89557,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721557913657}
+{"id":89563,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721557918994}
+{"id":89787,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721559718999}
+{"id":89789,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721559719018}
+{"id":89795,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721559724374}
+{"id":90382,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721561524365}
+{"id":90384,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721561524385}
+{"id":90390,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721561529763}
+{"id":91172,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721563329760}
+{"id":91174,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721563329783}
+{"id":91182,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721563335163}
+{"id":91500,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721565135166}
+{"id":91502,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721565135185}
+{"id":91508,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721565140533}
+{"id":91687,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721566940535}
+{"id":91689,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721566940553}
+{"id":91695,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721566945898}
+{"id":92152,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721568745900}
+{"id":92154,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721568745918}
+{"id":92160,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721568751292}
+{"id":92650,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721570551292}
+{"id":92652,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721570551313}
+{"id":92658,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721570556663}
+{"id":92944,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721572356655}
+{"id":92946,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721572356672}
+{"id":92952,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721572362050}
+{"id":93392,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721574162060}
+{"id":93394,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721574162084}
+{"id":93402,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721574167433}
+{"id":93986,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721575967429}
+{"id":93988,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721575967447}
+{"id":94007,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721575972825}
+{"id":94569,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721577772822}
+{"id":94571,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721577772844}
+{"id":94577,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721577778192}
+{"id":95022,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721579578195}
+{"id":95024,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721579578214}
+{"id":95030,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721579583565}
+{"id":95048,"type":"warn","level":2,"name":"app","meta":{"paths":["cpxhww"]},"content":"Error: property database is not registered, declare it as `inject` to suppress this warning\n    at ReflectService.checkInject (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@cordisjs\\core\\lib\\index.cjs:276:21)\n    at Object.get (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@cordisjs\\core\\lib\\index.cjs:294:27)\n    at Command.<anonymous> (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\koishi-plugin-jrrp\\src\\core.js:56:15)\n    at Array.<anonymous> (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@koishijs\\core\\lib\\index.cjs:1114:27)\n    at argv.next (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@koishijs\\core\\lib\\index.cjs:1125:30)\n    at Command.execute (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@koishijs\\core\\lib\\index.cjs:1128:33)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@koishijs\\core\\lib\\index.cjs:2162:22\n    at async Proxy.withScope (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@koishijs\\core\\lib\\index.cjs:2065:22)\n    at async next (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@koishijs\\core\\lib\\index.cjs:853:16)","timestamp":1721579756512}
+{"id":95326,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721581383564}
+{"id":95328,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721581383583}
+{"id":95334,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721581388945}
+{"id":96075,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721583188944}
+{"id":96077,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721583188960}
+{"id":96087,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721583194313}
+{"id":96731,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721584994318}
+{"id":96733,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721584994340}
+{"id":96739,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721584999697}
+{"id":96796,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721586799694}
+{"id":96798,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721586799716}
+{"id":96804,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721586805065}
+{"id":96903,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721588605069}
+{"id":96905,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721588605088}
+{"id":96911,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721588610460}
+{"id":96988,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721590410464}
+{"id":96990,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721590410483}
+{"id":96996,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721590415814}
+{"id":97055,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721592215805}
+{"id":97057,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721592215822}
+{"id":97063,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721592221226}
+{"id":97120,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721594021233}
+{"id":97122,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721594021256}
+{"id":97128,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721594026621}
+{"id":97185,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721595826613}
+{"id":97187,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721595826636}
+{"id":97193,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721595831984}
+{"id":97250,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721597631990}
+{"id":97252,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721597632007}
+{"id":97258,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721597637389}
+{"id":97315,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721599437384}
+{"id":97317,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721599437405}
+{"id":97323,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721599442794}
+{"id":97380,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721601242793}
+{"id":97382,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721601242814}
+{"id":97388,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721601248179}
+{"id":97452,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721603048184}
+{"id":97454,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721603048206}
+{"id":97460,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721603053571}
+{"id":97528,"type":"warn","level":2,"name":"qq","meta":{"paths":["rbk1hq"]},"content":"offline: server request reconnect","timestamp":1721604853572}
+{"id":97530,"type":"warn","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"Session timed out, will retry in 5s...","timestamp":1721604853594}
+{"id":97536,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1721604858953}

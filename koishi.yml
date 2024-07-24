@@ -1,0 +1,115 @@
+plugins:
+  group:server:
+    $collapsed: true
+    server:s859qi:
+      port: 5140
+      maxPort: 5149
+      host: 0.0.0.0
+    ~server-satori:g52npp: {}
+    ~server-temp:am92qk:
+      selfUrl: http://39.104.73.3:5140
+  group:basic:
+    $collapsed: true
+    admin:vurc80: {}
+    ~bind:emwyk3: {}
+    commands:if8ao4:
+      jrrp:
+        aliases:
+          今日人品: null
+      二次元-猫耳:
+        aliases:
+          兽耳娘: null
+    help:gn3g1d: {}
+    http:vmyxhc: {}
+    ~inspect:fawn2k: {}
+    locales:e4y6bs: {}
+    proxy-agent:26mixo: {}
+    rate-limit:2h29a4: {}
+    puppeteer:sz5coe: {}
+    telemetry:1mld9j: {}
+  group:console:
+    $collapsed: true
+    actions:r1oktw: {}
+    analytics:rgpz1r: {}
+    android:2j2vy6:
+      $if: env.KOISHI_AGENT?.includes('Android')
+    auth:ile4qk:
+      admin:
+        password: eden4ever
+    config:dgac95: {}
+    console:bus1ch:
+      open: true
+    dataview:tr2dkr: {}
+    desktop:wxbmwm:
+      $if: env.KOISHI_AGENT?.includes('Desktop')
+    explorer:psnh5c: {}
+    logger:1xw5tt: {}
+    insight:d60pgv: {}
+    market:isgcrc:
+      search:
+        endpoint: https://registry.koishi.chat/index.json
+    notifier:pfvlnd: {}
+    oobe:4f39zf: {}
+    sandbox:taovro: {}
+    '@initencounter/jimp:gcsgwl': {}
+    cache-database:0da60f: {}
+    status:edg7wj: {}
+    theme-vanilla:jjwlke: {}
+  iframe:1mh7tt:
+    routes:
+      - name: Readme
+        desc: readme for admins
+        path: /docs
+        link: https://docs.qq.com/doc/DV09PbnpyblBydHBl
+        order: 1
+  group:storage:
+    $collapsed: true
+    ~database-mongo:igwczk:
+      database: koishi
+    ~database-mysql:6b22bo:
+      database: koishi
+    ~database-postgres:zuemab:
+      database: koishi
+    database-sqlite:yiu6it:
+      path: data/koishi.db
+    assets-local:l6ck2i: {}
+  group:develop:
+    $if: env.NODE_ENV === 'development'
+    hmr:sqd0zw:
+      root: .
+  group:adapter:
+    $collapsed: true
+    adapter-qq:rbk1hq:
+      id: '102073059'
+      secret: paM8ugSE0naNAxkXL9xlZNB0peTI7wlb
+      token: rjRFmndwCqyCJlvwZpilGQVWTI7v5W5B
+      type: public
+      intents:
+        - USER_MESSAGE
+    adapter-satori:dd0tb4:
+      endpoint: http://127.0.0.1:5500
+      token: 11ded252de66b7c0223be73c6e410355a15393447946caf6fc9d5047ae3ab42c
+  group:lnok3u:
+    $collapsed: true
+    jrrp:cpxhww: {}
+    ba-logo:1jkapn: {}
+    hitokoto:3p9pq6: {}
+    change-auth-callme:f4vlua: {}
+    dialogue:ar0a4x:
+      authority:
+        base: 1
+    trpgdice:6pr6fw: {}
+    beauty-huluxia:zvm2m9: {}
+    mememaker:02acrl:
+      loggerinfo: true
+    minesweeper-ending:5p9edn: {}
+    buckshot-roulette2:lvv64a:
+      admin:
+        - '235561271'
+    guess-riddle:qysler: {}
+    $label: plu
+  whateat-pic:yka377:
+    botname: DieselNeko「迪迪猫」
+prefix:
+  - ''
+  - /

@@ -1,0 +1,72 @@
+{"id":1,"type":"info","level":2,"name":"app","meta":{},"content":"\u001b[38;5;15;1mKoishi/4.17.9\u001b[0m","timestamp":1720770339869}
+{"id":2,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:entry\u001b[0m","timestamp":1720770339919}
+{"id":3,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:server\u001b[0m","timestamp":1720770339920}
+{"id":4,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mserver:s859qi\u001b[0m","timestamp":1720770339921}
+{"id":5,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:basic\u001b[0m","timestamp":1720770340169}
+{"id":6,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mcommands:if8ao4\u001b[0m","timestamp":1720770340170}
+{"id":7,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mhelp:gn3g1d\u001b[0m","timestamp":1720770340180}
+{"id":8,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mhttp:vmyxhc\u001b[0m","timestamp":1720770340187}
+{"id":9,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mlocales:e4y6bs\u001b[0m","timestamp":1720770340191}
+{"id":10,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mproxy-agent:26mixo\u001b[0m","timestamp":1720770340202}
+{"id":11,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mrate-limit:2h29a4\u001b[0m","timestamp":1720770340419}
+{"id":12,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mpuppeteer:sz5coe\u001b[0m","timestamp":1720770340425}
+{"id":13,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mtelemetry:1mld9j\u001b[0m","timestamp":1720770340926}
+{"id":14,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:console\u001b[0m","timestamp":1720770340944}
+{"id":15,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mactions:r1oktw\u001b[0m","timestamp":1720770340945}
+{"id":16,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45manalytics:rgpz1r\u001b[0m","timestamp":1720770340948}
+{"id":17,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mauth:ile4qk\u001b[0m","timestamp":1720770340953}
+{"id":18,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mconfig:dgac95\u001b[0m","timestamp":1720770340961}
+{"id":19,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mconsole:bus1ch\u001b[0m","timestamp":1720770341020}
+{"id":20,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mdataview:tr2dkr\u001b[0m","timestamp":1720770341036}
+{"id":21,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mdesktop:wxbmwm\u001b[0m","timestamp":1720770341049}
+{"id":22,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mexplorer:psnh5c\u001b[0m","timestamp":1720770341056}
+{"id":23,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mlogger:1xw5tt\u001b[0m","timestamp":1720770341097}
+{"id":24,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45minsight:d60pgv\u001b[0m","timestamp":1720770341102}
+{"id":25,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mmarket:isgcrc\u001b[0m","timestamp":1720770341111}
+{"id":26,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mnotifier:pfvlnd\u001b[0m","timestamp":1720770341170}
+{"id":27,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45moobe:4f39zf\u001b[0m","timestamp":1720770341172}
+{"id":28,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45msandbox:taovro\u001b[0m","timestamp":1720770341176}
+{"id":29,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45m@initencounter/jimp:gcsgwl\u001b[0m","timestamp":1720770341182}
+{"id":30,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mcache-database:0da60f\u001b[0m","timestamp":1720770341469}
+{"id":31,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mstatus:edg7wj\u001b[0m","timestamp":1720770341475}
+{"id":32,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mtheme-vanilla:jjwlke\u001b[0m","timestamp":1720770341539}
+{"id":33,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:storage\u001b[0m","timestamp":1720770341544}
+{"id":34,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mdatabase-sqlite:yiu6it\u001b[0m","timestamp":1720770341546}
+{"id":35,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45massets-local:l6ck2i\u001b[0m","timestamp":1720770341560}
+{"id":36,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:adapter\u001b[0m","timestamp":1720770341569}
+{"id":37,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45madapter-qq:rbk1hq\u001b[0m","timestamp":1720770341569}
+{"id":38,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45madapter-satori:dd0tb4\u001b[0m","timestamp":1720770341584}
+{"id":39,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mgroup:lnok3u\u001b[0m","timestamp":1720770341590}
+{"id":40,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mjrrp:cpxhww\u001b[0m","timestamp":1720770341590}
+{"id":41,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mba-logo:1jkapn\u001b[0m","timestamp":1720770341594}
+{"id":42,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mhitokoto:3p9pq6\u001b[0m","timestamp":1720770341597}
+{"id":43,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mchange-auth-callme:f4vlua\u001b[0m","timestamp":1720770341604}
+{"id":44,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mdialogue:ar0a4x\u001b[0m","timestamp":1720770341609}
+{"id":45,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mtrpgdice:6pr6fw\u001b[0m","timestamp":1720770341622}
+{"id":46,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mbeauty-huluxia:zvm2m9\u001b[0m","timestamp":1720770341630}
+{"id":47,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mmememaker:02acrl\u001b[0m","timestamp":1720770341635}
+{"id":48,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mminesweeper-ending:5p9edn\u001b[0m","timestamp":1720770341639}
+{"id":49,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mbuckshot-roulette2:lvv64a\u001b[0m","timestamp":1720770341653}
+{"id":50,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mguess-riddle:qysler\u001b[0m","timestamp":1720770341658}
+{"id":51,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45miframe:1mh7tt\u001b[0m","timestamp":1720770341662}
+{"id":52,"type":"info","level":2,"name":"assets","meta":{"paths":["l6ck2i"]},"content":"missing config \"selfUrl\", fallback to \"file:\" scheme","timestamp":1720770341820}
+{"id":58,"type":"info","level":2,"name":"puppeteer","meta":{"paths":["sz5coe"]},"content":"chrome executable found at \u001b[38;5;201mC:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\u001b[0m","timestamp":1720770341951}
+{"id":60,"type":"info","level":2,"name":"server","meta":{"paths":["s859qi"]},"content":"server listening at \u001b[38;5;57mhttp://0.0.0.0:5140\u001b[0m","timestamp":1720770342031}
+{"id":61,"type":"info","level":2,"name":"console","meta":{"paths":["bus1ch"]},"content":"webui is available at \u001b[38;5;166mhttp://127.0.0.1:5140\u001b[0m","timestamp":1720770342032}
+{"id":62,"type":"info","level":2,"name":"adapter","meta":{"paths":["dd0tb4"]},"content":"connect to server: \u001b[38;5;44mws://127.0.0.1:5500/v1/events\u001b[0m","timestamp":1720770342140}
+{"id":64,"type":"info","level":2,"name":"auth","meta":{"paths":["ile4qk"]},"content":"creating admin account","timestamp":1720770342227}
+{"id":93,"type":"info","level":2,"name":"adapter","meta":{"paths":["rbk1hq"]},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1720770344476}
+{"id":147,"type":"warn","level":2,"name":"config","meta":{},"content":"failed to load \u001b[38;5;78mcooke-mda\u001b[0m","timestamp":1720770384523}
+{"id":148,"type":"warn","level":2,"name":"config","meta":{},"content":"Error: Cannot find module 'axios'\nRequire stack:\n- C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\koishi-plugin-cooke-mda\\lib\\index.js\n- C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@koishijs\\loader\\lib\\index.js\n- C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\koishi\\lib\\worker\\index.js\n    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)\n    at Module._load (node:internal/modules/cjs/loader:984:27)\n    at Module.require (node:internal/modules/cjs/loader:1231:19)\n    at require (node:internal/modules/helpers:179:18)\n    at Object.<anonymous> (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\koishi-plugin-cooke-mda\\lib\\index.js:8:33)\n    at Module._compile (node:internal/modules/cjs/loader:1369:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)\n    at Module.load (node:internal/modules/cjs/loader:1206:32)\n    at Module._load (node:internal/modules/cjs/loader:1022:12)\n    at Module.require (node:internal/modules/cjs/loader:1231:19)","timestamp":1720770384524}
+{"id":150,"type":"info","level":2,"name":"loader","meta":{"paths":[]},"content":"apply plugin \u001b[38;5;45mcooke-mda:k8knu4\u001b[0m","timestamp":1720770388399}
+{"id":153,"type":"info","level":2,"name":"market","meta":{},"content":"\u001b[1mYarn 4.1.1\u001b[22m","timestamp":1720770416983}
+{"id":154,"type":"info","level":2,"name":"market","meta":{},"content":"┌ Resolution step","timestamp":1720770417012}
+{"id":155,"type":"info","level":2,"name":"market","meta":{},"content":"\u001b[38;2;95;175;0m+\u001b[39m \u001b[38;2;215;135;95mkoishi-plugin-cooke-tmd\u001b[39m\u001b[38;2;135;175;255m@\u001b[39m\u001b[38;2;135;175;255mnpm:1.6.87\u001b[39m","timestamp":1720770417530}
+{"id":156,"type":"info","level":2,"name":"market","meta":{},"content":"└ Completed in 0s 544ms","timestamp":1720770417556}
+{"id":157,"type":"info","level":2,"name":"market","meta":{},"content":"┌ Post-resolution validation","timestamp":1720770417557}
+{"id":160,"type":"info","level":2,"name":"market","meta":{},"content":"└ Completed","timestamp":1720770417559}
+{"id":162,"type":"info","level":2,"name":"market","meta":{},"content":"A package was added to the project (\u001b[38;2;255;49;49m+ 13.15 KiB\u001b[39m).","timestamp":1720770418390}
+{"id":163,"type":"info","level":2,"name":"market","meta":{},"content":"└ Completed in 0s 831ms","timestamp":1720770418392}
+{"id":164,"type":"info","level":2,"name":"market","meta":{},"content":"┌ Link step","timestamp":1720770418432}
+{"id":165,"type":"info","level":2,"name":"market","meta":{},"content":"└ Completed in 0s 424ms","timestamp":1720770418858}
+{"id":167,"type":"error","level":1,"name":"market","meta":{},"content":"Error: Cannot find module 'koishi-plugin-cooke-tmd'\nRequire stack:\n- C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@koishijs\\plugin-market\\lib\\node\\index.js\n- C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@koishijs\\loader\\lib\\index.js\n- C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\koishi\\lib\\worker\\index.js\n    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)\n    at Function.resolve (node:internal/modules/helpers:190:19)\n    at Proxy.install (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@koishijs\\plugin-market\\lib\\node\\index.js:330:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async ctx2.console.addListener.authority (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@koishijs\\plugin-market\\lib\\node\\index.js:568:20)\n    at async WebSocket.receive (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@koishijs\\plugin-console\\node_modules\\@koishijs\\console\\lib\\index.js:127:21)","timestamp":1720770419845}

@@ -1,0 +1,1 @@
+{"id":167,"type":"warn","level":2,"name":"app","meta":{},"content":"Error: EBUSY: resource busy or locked, unlink 'C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\tmp\\puppeteer_dev_chrome_profile-XXXXXX89H6KJ\\lockfile'","timestamp":1719838321604}

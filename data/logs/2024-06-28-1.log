@@ -1,0 +1,49 @@
+{"id":1,"type":"info","level":2,"name":"app","meta":{},"content":"\u001b[38;5;15;1mKoishi/4.17.7\u001b[0m","timestamp":1719587165700}
+{"id":2,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mgroup:entry\u001b[0m","timestamp":1719587165734}
+{"id":3,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mgroup:server\u001b[0m","timestamp":1719587165735}
+{"id":4,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mserver:s859qi\u001b[0m","timestamp":1719587165736}
+{"id":5,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mgroup:basic\u001b[0m","timestamp":1719587166077}
+{"id":6,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mcommands:if8ao4\u001b[0m","timestamp":1719587166078}
+{"id":7,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mhelp:gn3g1d\u001b[0m","timestamp":1719587166083}
+{"id":8,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mhttp:vmyxhc\u001b[0m","timestamp":1719587166087}
+{"id":9,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mlocales:e4y6bs\u001b[0m","timestamp":1719587166090}
+{"id":10,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mproxy-agent:26mixo\u001b[0m","timestamp":1719587166097}
+{"id":11,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mrate-limit:2h29a4\u001b[0m","timestamp":1719587166410}
+{"id":12,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mtelemetry:1mld9j\u001b[0m","timestamp":1719587166414}
+{"id":13,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mgroup:console\u001b[0m","timestamp":1719587166436}
+{"id":14,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mactions:r1oktw\u001b[0m","timestamp":1719587166436}
+{"id":15,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45manalytics:rgpz1r\u001b[0m","timestamp":1719587166442}
+{"id":16,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mconfig:dgac95\u001b[0m","timestamp":1719587166451}
+{"id":17,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mconsole:bus1ch\u001b[0m","timestamp":1719587166536}
+{"id":18,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mdataview:tr2dkr\u001b[0m","timestamp":1719587166559}
+{"id":19,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mdesktop:wxbmwm\u001b[0m","timestamp":1719587166564}
+{"id":20,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mexplorer:psnh5c\u001b[0m","timestamp":1719587166572}
+{"id":21,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mlogger:1xw5tt\u001b[0m","timestamp":1719587166661}
+{"id":22,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45minsight:d60pgv\u001b[0m","timestamp":1719587166665}
+{"id":23,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mmarket:isgcrc\u001b[0m","timestamp":1719587166668}
+{"id":24,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mnotifier:pfvlnd\u001b[0m","timestamp":1719587166730}
+{"id":25,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45moobe:4f39zf\u001b[0m","timestamp":1719587166733}
+{"id":26,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45msandbox:taovro\u001b[0m","timestamp":1719587166736}
+{"id":27,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mstatus:edg7wj\u001b[0m","timestamp":1719587166745}
+{"id":28,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mtheme-vanilla:jjwlke\u001b[0m","timestamp":1719587166828}
+{"id":29,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mgroup:storage\u001b[0m","timestamp":1719587166839}
+{"id":30,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mdatabase-sqlite:yiu6it\u001b[0m","timestamp":1719587166841}
+{"id":31,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45massets-local:l6ck2i\u001b[0m","timestamp":1719587166872}
+{"id":32,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mgroup:adapter\u001b[0m","timestamp":1719587166882}
+{"id":33,"type":"info","level":2,"name":"assets","meta":{},"content":"missing config \"selfUrl\", fallback to \"file:\" scheme","timestamp":1719587167042}
+{"id":34,"type":"info","level":2,"name":"server","meta":{},"content":"server listening at \u001b[38;5;57mhttp://127.0.0.1:5140\u001b[0m","timestamp":1719587167215}
+{"id":35,"type":"info","level":2,"name":"console","meta":{},"content":"webui is available at \u001b[38;5;166mhttp://127.0.0.1:5140\u001b[0m","timestamp":1719587167216}
+{"id":37,"type":"info","level":2,"name":"sqlite","meta":{},"content":"auto creating table \u001b[38;5;170muser\u001b[0m","timestamp":1719587167352}
+{"id":40,"type":"info","level":2,"name":"sqlite","meta":{},"content":"auto creating table \u001b[38;5;170mbinding\u001b[0m","timestamp":1719587167429}
+{"id":43,"type":"info","level":2,"name":"sqlite","meta":{},"content":"auto creating table \u001b[38;5;170mchannel\u001b[0m","timestamp":1719587167445}
+{"id":46,"type":"info","level":2,"name":"sqlite","meta":{},"content":"auto creating table \u001b[38;5;170manalytics.message\u001b[0m","timestamp":1719587167486}
+{"id":49,"type":"info","level":2,"name":"sqlite","meta":{},"content":"auto creating table \u001b[38;5;170manalytics.command\u001b[0m","timestamp":1719587167501}
+{"id":51,"type":"success","level":1,"name":"telemetry","meta":{},"content":"\n欢迎使用 Koishi！\ntelemetry 服务是一组可选的 Koishi 服务，旨在通过分析您的 Koishi 使用情况来改善 Koishi 的使用体验、提供精确的插件使用量数据，并仅在您需要时为您提供支持。\n拒绝同意将影响我们提供的相关数据和功能，但不会影响 Koishi 的基础功能。\n要了解更多信息，请打开 Koishi 控制台并参阅我们的隐私政策。在您点击「同意」前，telemetry 服务不会启动。\n","timestamp":1719587167664}
+{"id":94,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mauth:ile4qk\u001b[0m","timestamp":1719587205387}
+{"id":130,"type":"info","level":2,"name":"loader","meta":{},"content":"reload plugin \u001b[38;5;45mserver:s859qi\u001b[0m","timestamp":1719587257095}
+{"id":131,"type":"info","level":2,"name":"server","meta":{},"content":"server closing","timestamp":1719587257095}
+{"id":132,"type":"info","level":2,"name":"assets","meta":{},"content":"missing config \"selfUrl\", fallback to \"file:\" scheme","timestamp":1719587257164}
+{"id":176,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45madapter-satori:dd0tb4\u001b[0m","timestamp":1719587369218}
+{"id":178,"type":"info","level":2,"name":"adapter","meta":{},"content":"connect to server: \u001b[38;5;44mws://127.0.0.1:5500/v1/events\u001b[0m","timestamp":1719587369261}
+{"id":210,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45madapter-qq:rbk1hq\u001b[0m","timestamp":1719587755824}
+{"id":234,"type":"info","level":2,"name":"adapter","meta":{},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1719587756404}

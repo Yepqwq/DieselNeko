@@ -1,0 +1,53 @@
+{"id":1,"type":"info","level":2,"name":"app","meta":{},"content":"\u001b[38;5;15;1mKoishi/4.17.7\u001b[0m","timestamp":1719587988724}
+{"id":2,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mgroup:entry\u001b[0m","timestamp":1719587988773}
+{"id":3,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mgroup:server\u001b[0m","timestamp":1719587988776}
+{"id":4,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mserver:s859qi\u001b[0m","timestamp":1719587988778}
+{"id":5,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mserver-temp:am92qk\u001b[0m","timestamp":1719587989032}
+{"id":6,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mgroup:basic\u001b[0m","timestamp":1719587989037}
+{"id":7,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mcommands:if8ao4\u001b[0m","timestamp":1719587989038}
+{"id":8,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mhelp:gn3g1d\u001b[0m","timestamp":1719587989042}
+{"id":9,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mhttp:vmyxhc\u001b[0m","timestamp":1719587989046}
+{"id":10,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mlocales:e4y6bs\u001b[0m","timestamp":1719587989047}
+{"id":11,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mproxy-agent:26mixo\u001b[0m","timestamp":1719587989054}
+{"id":12,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mrate-limit:2h29a4\u001b[0m","timestamp":1719587989235}
+{"id":13,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mtelemetry:1mld9j\u001b[0m","timestamp":1719587989239}
+{"id":14,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mgroup:console\u001b[0m","timestamp":1719587989259}
+{"id":15,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mactions:r1oktw\u001b[0m","timestamp":1719587989260}
+{"id":16,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45manalytics:rgpz1r\u001b[0m","timestamp":1719587989263}
+{"id":17,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mauth:ile4qk\u001b[0m","timestamp":1719587989268}
+{"id":18,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mconfig:dgac95\u001b[0m","timestamp":1719587989275}
+{"id":19,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mconsole:bus1ch\u001b[0m","timestamp":1719587989383}
+{"id":20,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mdataview:tr2dkr\u001b[0m","timestamp":1719587989405}
+{"id":21,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mdesktop:wxbmwm\u001b[0m","timestamp":1719587989412}
+{"id":22,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mexplorer:psnh5c\u001b[0m","timestamp":1719587989417}
+{"id":23,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mlogger:1xw5tt\u001b[0m","timestamp":1719587989479}
+{"id":24,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45minsight:d60pgv\u001b[0m","timestamp":1719587989484}
+{"id":25,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mmarket:isgcrc\u001b[0m","timestamp":1719587989488}
+{"id":26,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mnotifier:pfvlnd\u001b[0m","timestamp":1719587989547}
+{"id":27,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45moobe:4f39zf\u001b[0m","timestamp":1719587989551}
+{"id":28,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45msandbox:taovro\u001b[0m","timestamp":1719587989554}
+{"id":29,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mstatus:edg7wj\u001b[0m","timestamp":1719587989561}
+{"id":30,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mtheme-vanilla:jjwlke\u001b[0m","timestamp":1719587989630}
+{"id":31,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mgroup:storage\u001b[0m","timestamp":1719587989640}
+{"id":32,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mdatabase-sqlite:yiu6it\u001b[0m","timestamp":1719587989641}
+{"id":33,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45massets-local:l6ck2i\u001b[0m","timestamp":1719587989663}
+{"id":34,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45mgroup:adapter\u001b[0m","timestamp":1719587989679}
+{"id":35,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45madapter-qq:rbk1hq\u001b[0m","timestamp":1719587989680}
+{"id":36,"type":"info","level":2,"name":"loader","meta":{},"content":"apply plugin \u001b[38;5;45madapter-satori:dd0tb4\u001b[0m","timestamp":1719587989693}
+{"id":37,"type":"info","level":2,"name":"assets","meta":{},"content":"missing config \"selfUrl\", fallback to \"file:\" scheme","timestamp":1719587989864}
+{"id":40,"type":"info","level":2,"name":"server","meta":{},"content":"server listening at \u001b[38;5;57mhttp://0.0.0.0:5140\u001b[0m","timestamp":1719587990037}
+{"id":41,"type":"info","level":2,"name":"console","meta":{},"content":"webui is available at \u001b[38;5;166mhttp://127.0.0.1:5140\u001b[0m","timestamp":1719587990038}
+{"id":42,"type":"info","level":2,"name":"adapter","meta":{},"content":"connect to server: \u001b[38;5;44mws://127.0.0.1:5500/v1/events\u001b[0m","timestamp":1719587990060}
+{"id":44,"type":"info","level":2,"name":"auth","meta":{},"content":"creating admin account","timestamp":1719587990129}
+{"id":86,"type":"info","level":2,"name":"adapter","meta":{},"content":"connect to server: \u001b[38;5;44mwss://api.sgroup.qq.com/websocket\u001b[0m","timestamp":1719587991800}
+{"id":103,"type":"info","level":2,"name":"market","meta":{},"content":"\u001b[1mYarn 4.1.1\u001b[22m","timestamp":1719588009181}
+{"id":104,"type":"info","level":2,"name":"market","meta":{},"content":"┌ Resolution step","timestamp":1719588009205}
+{"id":105,"type":"info","level":2,"name":"market","meta":{},"content":"\u001b[38;2;95;175;0m+\u001b[39m \u001b[38;2;215;135;95mkoishi-plugin-hitokoto\u001b[39m\u001b[38;2;135;175;255m@\u001b[39m\u001b[38;2;135;175;255mnpm:2.1.7\u001b[39m","timestamp":1719588009805}
+{"id":106,"type":"info","level":2,"name":"market","meta":{},"content":"└ Completed in 0s 627ms","timestamp":1719588009833}
+{"id":107,"type":"info","level":2,"name":"market","meta":{},"content":"┌ Post-resolution validation","timestamp":1719588009835}
+{"id":110,"type":"info","level":2,"name":"market","meta":{},"content":"└ Completed","timestamp":1719588009837}
+{"id":112,"type":"info","level":2,"name":"market","meta":{},"content":"A package was added to the project (\u001b[38;2;255;49;49m+ 19.26 KiB\u001b[39m).","timestamp":1719588010609}
+{"id":113,"type":"info","level":2,"name":"market","meta":{},"content":"└ Completed in 0s 773ms","timestamp":1719588010611}
+{"id":114,"type":"info","level":2,"name":"market","meta":{},"content":"┌ Link step","timestamp":1719588010823}
+{"id":115,"type":"info","level":2,"name":"market","meta":{},"content":"└ Completed in 0s 471ms","timestamp":1719588011281}
+{"id":117,"type":"error","level":1,"name":"market","meta":{},"content":"Error: Cannot find module 'koishi-plugin-hitokoto'\nRequire stack:\n- C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@koishijs\\plugin-market\\lib\\node\\index.js\n- C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@koishijs\\loader\\lib\\index.js\n- C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\koishi\\lib\\worker\\index.js\n    at Module._resolveFilename (node:internal/modules/cjs/loader:1143:15)\n    at Function.resolve (node:internal/modules/helpers:190:19)\n    at Proxy.install (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@koishijs\\plugin-market\\lib\\node\\index.js:330:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async ctx2.console.addListener.authority (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@koishijs\\plugin-market\\lib\\node\\index.js:568:20)\n    at async WebSocket.receive (C:\\Users\\Administrator\\AppData\\Roaming\\Koishi\\Desktop\\data\\instances\\default\\node_modules\\@koishijs\\console\\lib\\index.js:127:21)","timestamp":1719588012356}
